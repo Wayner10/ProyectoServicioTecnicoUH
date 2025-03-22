@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|c:\\users\\wayner\\desktop\\servicio_tecnico\\servicio_tecnico\\capapresentacion\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:servicio_tecnico\\capapresentacion\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|c:\\users\\wayner\\desktop\\servicio_tecnico\\servicio_tecnico\\capapresentacion\\tecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:servicio_tecnico\\capapresentacion\\tecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Reparaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:Servicio_Tecnico\\CapaPresentacion\\Reparaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|c:\\users\\wayner\\desktop\\servicio_tecnico\\servicio_tecnico\\capapresentacion\\paginaprincipal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:servicio_tecnico\\capapresentacion\\paginaprincipal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:Servicio_Tecnico\\CapaPresentacion\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|c:\\users\\wayner\\desktop\\servicio_tecnico\\servicio_tecnico\\capapresentacion\\asignaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:servicio_tecnico\\capapresentacion\\asignaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|c:\\users\\wayner\\desktop\\servicio_tecnico\\servicio_tecnico\\capapresentacion\\detallereparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39827595-A435-4FE8-B8C8-9A842FD03B9D}|Servicio_Tecnico\\Servicio_Tecnico.csproj|solutionrelative:servicio_tecnico\\capapresentacion\\detallereparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Login.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\Login.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Login.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-14T06:00:48.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Usuarios.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\Usuarios.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Usuarios.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\Usuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T19:42:09.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tecnicos.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Tecnicos.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\Tecnicos.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Tecnicos.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\Tecnicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T19:42:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginaPrincipal.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\PaginaPrincipal.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\PaginaPrincipal.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\PaginaPrincipal.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\PaginaPrincipal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T19:41:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asignaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Asignaciones.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\Asignaciones.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Asignaciones.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\Asignaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T19:41:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleReparacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\DetalleReparacion.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\DetalleReparacion.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\DetalleReparacion.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\DetalleReparacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T19:40:41.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reparaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Reparaciones.aspx",
+              "RelativeDocumentMoniker": "Servicio_Tecnico\\CapaPresentacion\\Reparaciones.aspx",
+              "ToolTip": "C:\\Users\\Wayner\\Desktop\\Servicio_Tecnico\\Servicio_Tecnico\\CapaPresentacion\\Reparaciones.aspx",
+              "RelativeToolTip": "Servicio_Tecnico\\CapaPresentacion\\Reparaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-20T21:17:34.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
