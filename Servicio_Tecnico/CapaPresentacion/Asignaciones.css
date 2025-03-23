@@ -1,0 +1,162 @@
+﻿/* Estilos generales */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f8f9fa;
+}
+
+#form1 {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+}
+
+/* Menú de navegación */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 30px 0;
+    background: #2c3e50;
+    border-radius: 6px;
+    display: flex;
+}
+
+li a {
+    display: block;
+    color: #ecf0f1;
+    padding: 14px 20px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+    li a:hover {
+        background: #34495e;
+    }
+
+    li a.active {
+        background: #2980b9;
+        font-weight: 500;
+    }
+
+li:last-child {
+    margin-left: auto;
+}
+
+/* Títulos */
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 12px;
+    margin-bottom: 25px;
+}
+
+/* Campos de formulario */
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+    font-weight: 500;
+    color: #34495e;
+    vertical-align: middle;
+}
+
+.form-control {
+    padding: 8px 12px;
+    width: 300px;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    transition: border-color 0.3s;
+}
+
+    .form-control:focus {
+        border-color: #3498db;
+        outline: none;
+    }
+
+.date-picker {
+    width: 200px;
+}
+
+/* Botones */
+.boton-accion {
+    padding: 12px 28px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 10px;
+    font-weight: 500;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+    .boton-accion:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    }
+
+#Bagregar {
+    background: #27ae60;
+    color: white;
+}
+
+#Beliminar {
+    background: #e74c3c;
+    color: white;
+}
+
+#Bupdate {
+    background: #3498db;
+    color: white;
+}
+
+/* GridView */
+#GridView1 {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    background: white;
+}
+
+    #GridView1 th {
+        background: #3498db;
+        color: white;
+        padding: 14px;
+        text-align: left;
+        font-weight: 600;
+    }
+
+    #GridView1 td {
+        padding: 12px;
+        border-bottom: 1px solid #ecf0f1;
+    }
+
+    #GridView1 tr:nth-child(even) {
+        background: #f8f9fa;
+    }
+
+    #GridView1 tr:hover {
+        background: #f1f8ff;
+    }
+
+/* Mensajes */
+.mensaje-estado {
+    display: block;
+    padding: 15px;
+    margin-top: 25px;
+    border-radius: 4px;
+    background: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+    font-weight: 500;
+}
+
+/* Contenedor botones */
+.botones-container {
+    margin-top: 30px;
+    text-align: center;
+}

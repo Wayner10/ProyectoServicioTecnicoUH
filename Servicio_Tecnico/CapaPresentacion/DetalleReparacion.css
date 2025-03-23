@@ -1,18 +1,17 @@
 ﻿/* Estilos Generales */
 body {
     margin: 0;
-    font-family: 'Arial', sans-serif;
-    background: #f5f5f5;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f8f9fa;
 }
 
-/* Contenedor Principal */
 #form1 {
     max-width: 1200px;
     margin: 20px auto;
-    padding: 20px;
+    padding: 25px;
     background: white;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
 }
 
 /* Menú de Navegación */
@@ -21,16 +20,16 @@ ul {
     padding: 0;
     margin: 0 0 30px 0;
     background: #2c3e50;
-    border-radius: 5px;
+    border-radius: 6px;
     display: flex;
 }
 
 li a {
     display: block;
-    color: white;
-    padding: 15px 20px;
+    color: #ecf0f1;
+    padding: 14px 20px;
     text-decoration: none;
-    transition: background 0.3s;
+    transition: all 0.3s ease;
 }
 
     li a:hover {
@@ -38,53 +37,75 @@ li a {
     }
 
     li a.active {
-        background: #3498db;
+        background: #2980b9;
+        font-weight: 500;
     }
 
+li:last-child {
+    margin-left: auto;
+}
+
 /* Títulos */
-h1 {
+h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 10px;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 12px;
+    margin-bottom: 25px;
+}
+
+/* Campos de Formulario */
+.form-group {
     margin-bottom: 20px;
 }
 
-h2 {
-    color: #34495e;
-    margin-bottom: 15px;
+.date-container {
+    display: flex;
+    gap: 30px;
 }
 
-/* Formulario */
+.date-group {
+    flex: 1;
+}
+
 label {
     display: inline-block;
-    width: 120px;
-    font-weight: bold;
+    width: 180px;
+    font-weight: 500;
     color: #34495e;
-    margin-bottom: 10px;
+    vertical-align: middle;
 }
 
-input[type="text"] {
+.form-control {
     padding: 8px 12px;
     width: 300px;
-    border: 1px solid #ddd;
+    border: 1px solid #bdc3c7;
     border-radius: 4px;
-    margin-bottom: 15px;
+    transition: border-color 0.3s;
+}
+
+.date-picker {
+    width: 200px;
+}
+
+.form-control:focus {
+    border-color: #3498db;
+    outline: none;
 }
 
 /* Botones */
 .boton-accion {
-    padding: 10px 25px;
+    padding: 12px 28px;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
     cursor: pointer;
-    margin: 10px 5px;
-    font-weight: bold;
-    transition: all 0.3s;
+    margin: 0 10px;
+    font-weight: 500;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
     .boton-accion:hover {
         transform: translateY(-2px);
-        opacity: 0.9;
+        box-shadow: 0 3px 8px rgba(0,0,0,0.1);
     }
 
 #Bagregar {
@@ -106,18 +127,20 @@ input[type="text"] {
 #GridView1 {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
+    margin: 25px 0;
+    background: white;
 }
 
     #GridView1 th {
         background: #3498db;
         color: white;
-        padding: 12px;
+        padding: 14px;
         text-align: left;
+        font-weight: 600;
     }
 
     #GridView1 td {
-        padding: 10px;
+        padding: 12px;
         border-bottom: 1px solid #ecf0f1;
     }
 
@@ -125,23 +148,24 @@ input[type="text"] {
         background: #f8f9fa;
     }
 
+    #GridView1 tr:hover {
+        background: #f1f8ff;
+    }
+
 /* Mensajes */
-#Lmensaje {
+.mensaje-estado {
     display: block;
     padding: 15px;
-    margin-top: 20px;
+    margin-top: 25px;
     border-radius: 4px;
     background: #dff0d8;
     color: #3c763d;
     border: 1px solid #d6e9c6;
+    font-weight: 500;
 }
 
-/* Alineación About */
-li:last-child {
-    margin-left: auto;
-}
-
-/* Eliminar saltos de línea innecesarios */
-br {
-    display: none;
+/* Contenedor Botones */
+.botones-container {
+    margin-top: 30px;
+    text-align: center;
 }

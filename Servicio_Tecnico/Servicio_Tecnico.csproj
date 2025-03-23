@@ -68,12 +68,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CapaPresentacion\Asignaciones.aspx" />
+    <Content Include="CapaPresentacion\Asignaciones.css" />
     <Content Include="CapaPresentacion\DetalleReparacion.aspx" />
+    <Content Include="CapaPresentacion\DetalleReparacion.css" />
     <Content Include="CapaPresentacion\Equipos.aspx" />
+    <Content Include="CapaPresentacion\Equipos.css" />
     <Content Include="CapaPresentacion\Login.aspx" />
     <Content Include="CapaPresentacion\Login.css" />
     <Content Include="CapaPresentacion\PaginaPrincipal.aspx" />
+    <Content Include="CapaPresentacion\PaginaPrincipal.css" />
     <Content Include="CapaPresentacion\Reparaciones.aspx" />
+    <Content Include="CapaPresentacion\Reparaciones.css" />
     <Content Include="CapaPresentacion\Tecnicos.aspx" />
     <Content Include="CapaPresentacion\Tecnicos.css" />
     <Content Include="CapaPresentacion\Usuarios.aspx" />

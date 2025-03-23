@@ -1,0 +1,78 @@
+﻿/* Estilos consistentes con el sistema */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f8f9fa;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.main-container {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    font-size: 2.2rem;
+}
+
+/* GridView Styles */
+#GridView1 {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    background: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+    #GridView1 th {
+        background: #3498db;
+        color: white;
+        padding: 14px;
+        text-align: left;
+        font-weight: 600;
+        border: none;
+    }
+
+    #GridView1 td {
+        padding: 12px;
+        border-bottom: 1px solid #ecf0f1;
+        color: #34495e;
+    }
+
+    #GridView1 tr:nth-child(even) {
+        background: #f8f9fa;
+    }
+
+    #GridView1 tr:hover {
+        background: #f1f8ff;
+        transition: background 0.3s ease;
+    }
+
+/* Responsive Table */
+@media (max-width: 768px) {
+    .container {
+        margin: 20px auto;
+        padding: 0 15px;
+    }
+
+    .main-container {
+        padding: 20px;
+        overflow-x: auto;
+    }
+
+    #GridView1 {
+        min-width: 600px;
+    }
+}
