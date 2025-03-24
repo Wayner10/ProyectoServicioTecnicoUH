@@ -20,7 +20,8 @@
             <li><a href="Reparaciones.aspx">Reparaciones</a></li>
             <li><a class="active" href="Asignaciones.aspx">Asignaciones</a></li>
             <li><a href="DetalleReparacion.aspx">Detalle de reparacion</a></li>
-            <li><a href="About.html">About</a></li>
+            <li><a href="#About.html"></a></li>
+            
         </ul>
 
         <h1>Gestión de Asignaciones</h1>

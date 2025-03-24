@@ -14,6 +14,7 @@
         <div class="container">
             <ul>
                 <li><a href="Login.aspx">Admin</a></li>
+                 <li><a href="About.html">About</a></li>
             </ul>
             <div class="main-container">
                 <h1>Detalles del Servicio Técnico</h1>
