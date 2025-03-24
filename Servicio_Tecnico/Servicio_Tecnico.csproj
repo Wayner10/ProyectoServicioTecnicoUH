@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CapaPresentacion\About.css" />
+    <Content Include="CapaPresentacion\About.html" />
     <Content Include="CapaPresentacion\Asignaciones.aspx" />
     <Content Include="CapaPresentacion\Asignaciones.css" />
     <Content Include="CapaPresentacion\DetalleReparacion.aspx" />
@@ -83,6 +85,12 @@
     <Content Include="CapaPresentacion\Tecnicos.css" />
     <Content Include="CapaPresentacion\Usuarios.aspx" />
     <Content Include="CapaPresentacion\Usuarios.css" />
+    <Content Include="image\android-chrome-192x192.png" />
+    <Content Include="image\android-chrome-512x512.png" />
+    <Content Include="image\apple-touch-icon.png" />
+    <Content Include="image\favicon-16x16.png" />
+    <Content Include="image\favicon-32x32.png" />
+    <Content Include="image\favicon.ico" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -157,6 +165,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="image\site.webmanifest" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

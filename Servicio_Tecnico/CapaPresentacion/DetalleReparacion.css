@@ -68,7 +68,7 @@ h2 {
 }
 
 label {
-    display: inline-block;
+    display: none;
     width: 180px;
     font-weight: 500;
     color: #34495e;

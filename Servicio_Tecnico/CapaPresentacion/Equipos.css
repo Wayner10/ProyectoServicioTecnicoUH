@@ -55,7 +55,7 @@ h1 {
 }
 
 label {
-    display: inline-block;
+    display: none;
     width: 150px;
     font-weight: bold;
     color: #34495e;

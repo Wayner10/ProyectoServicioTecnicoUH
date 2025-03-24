@@ -5,8 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/image/favicon-32x32.png"/>
     <link href="/CapaPresentacion/DetalleReparacion.css" rel="stylesheet" />
-    <title></title>
+    <title>Detalle Reparacion</title>
 </head>
 <body>
 <form id="form1" runat="server">
@@ -18,7 +19,7 @@
             <li><a href="Reparaciones.aspx">Reparaciones</a></li>
             <li><a href="Asignaciones.aspx">Asignaciones</a></li>
             <li><a class="active" href="DetalleReparacion.aspx">Detalle de reparacion</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="About.html">About</a></li>
         </ul>
 
         <h2>Detalle de Reparación</h2>

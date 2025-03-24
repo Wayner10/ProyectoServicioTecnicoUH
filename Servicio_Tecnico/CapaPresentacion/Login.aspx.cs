@@ -45,7 +45,7 @@ namespace Servicio_Tecnico.CapaPresentacion
             {
                 if (ValidarUsuario(usuario, password))
                 {
-                    string script = "window.open('Usuarios.aspx', '_blank');";
+                    string script = "window.open('Tecnicos.aspx', '_blank');";
                     ClientScript.RegisterStartupScript(this.GetType(), "Redirect", script, true);
                 }
                 else

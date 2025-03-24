@@ -6,6 +6,7 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link href="/CapaPresentacion/PaginaPrincipal.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/image/favicon-32x32.png"/>
     <title>Detalles servicio</title>
 </head>
 <body>

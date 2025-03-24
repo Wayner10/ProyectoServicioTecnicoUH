@@ -6,7 +6,8 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link href="/CapaPresentacion/Reparaciones.css" rel="stylesheet" />
-    <title></title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/image/favicon-32x32.png"/>
+    <title>Reparaciones</title>
 </head>
 <body>
  <form id="form1" runat="server">
@@ -18,7 +19,7 @@
                 <li><a class="active" href="Reparaciones.aspx">Reparaciones</a></li>
                 <li><a href="Asignaciones.aspx">Asignaciones</a></li>
                 <li><a href="DetalleReparacion.aspx">Detalle de reparacion</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="About.html">About</a></li>
             </ul>
 
             <h2>Registro de Reparaciones</h2>

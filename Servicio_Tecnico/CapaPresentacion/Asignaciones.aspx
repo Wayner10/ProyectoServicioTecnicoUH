@@ -7,6 +7,7 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link href="/CapaPresentacion/Asignaciones.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/image/favicon-32x32.png"/>
     <title>Asignaciones</title>
 </head>
 <body>
@@ -19,7 +20,7 @@
             <li><a href="Reparaciones.aspx">Reparaciones</a></li>
             <li><a class="active" href="Asignaciones.aspx">Asignaciones</a></li>
             <li><a href="DetalleReparacion.aspx">Detalle de reparacion</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="About.html">About</a></li>
         </ul>
 
         <h1>Gestión de Asignaciones</h1>
